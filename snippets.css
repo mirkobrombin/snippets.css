@@ -1,0 +1,38 @@
+.language-python .k,
+.language-python .ow,
+.language-css .n,
+.language-bash .nb {
+    color: #0f9814;
+}
+
+.language-python .s,
+.language-html .s,
+.language-css .nt,
+.language-css .o {
+    color: #006dc3;
+}
+
+.language-python .nb,
+.language-css .nb {
+    color: #FF9800;
+}
+
+.language-python .k,
+.language-python .ow,
+.language-python .nb,
+.language-html .nt,
+.language-css .nl {
+    font-weight: bold;
+}
+
+.language-python .bp,
+.language-python .mi,
+.language-css .k,
+.language-bash .nt {
+    color: #8c1540;
+}
+
+.language-python .nf,
+.language-html .na {
+    color: #f13355;
+}
